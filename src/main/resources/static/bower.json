@@ -1,0 +1,17 @@
+{
+  "name": "springblog",
+  "homepage": "https://github.com/jemliF/spring-blog",
+  "authors": [
+    "jemliF <jemlifathi2013@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
